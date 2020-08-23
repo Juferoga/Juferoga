@@ -2,7 +2,7 @@
 
 ## Hi, I'm Juan Felipe 👨🏻‍💻
 
-Linux and Free Software enthusiast, Desing Addict and Developer @GLUD.
+Linux and Free Software enthusiast, Desing Addict and Developer [@GLUD](https://glud.udistrital.edu.co/) .
 
 ### About
 
