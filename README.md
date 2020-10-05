@@ -13,7 +13,7 @@ In my role as a student, I try to improve my skills every day, learning and coll
 If you have a question, or you just want to contact me, you can find and follow me on:
 
  - [Website](https://juferoga.github.io/JuanFelipeCV/) 
- - [GitHub](https://github.com/Juferoga)
+ - [GitLab](https://gitlab.com/Juferoga)
  - [LinkedIn](https://www.linkedin.com/in/Juferoga/)
  - [Twitter](https://twitter.com/JuanFelipe_61)
 
