@@ -6,7 +6,7 @@ Linux and Free Software enthusiast, Desing Addict and Developer [@GLUD](https://
 
 ### About Me 👻
 
-In my role as a student, I try to improve my skills every day, learning and collaborating on various projects. I am very interested in developing myself in the field of complexity and free technologies. Currently I'm an active member (and future director) of the GNU / Linux Group of the district university & the complexity group of the university only as a member.
+In my role as a student, I try to improve my skills every day, learning and collaborating on various projects. I am very interested in developing myself in the field of complexity and free technologies. Currently I'm director of the GNU / Linux Group of the district university & the complexity group of the university only as a member.
 
 ### Find me on the web 👾
 
