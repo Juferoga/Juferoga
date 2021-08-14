@@ -17,6 +17,8 @@ If you have a question, or you just want to contact me, you can find and follow 
  - [LinkedIn](https://www.linkedin.com/in/Juferoga/)
  - [Twitter](https://twitter.com/JuanFelipe_61)
 
+All my new work in [GitLab](https://gitlab.com/Juferoga)...
+
 <!--
 **Juferoga/Juferoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
