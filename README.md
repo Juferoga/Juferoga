@@ -49,15 +49,15 @@ If you have a question, or you just want to contact me, you can find and follow 
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <!-- <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Juferoga"><img alt="Sriram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juferoga&custom_title=Juferoga's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/> -->
 
 
-<br/>
+<!-- <br/> -->
 
-## :trophy: Git profile Trophies
+## 🏆 Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Juferoga&layout=compact&theme=algolia" alt="Juferoga" /></a> </p>
 
