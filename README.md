@@ -76,7 +76,7 @@ If you have a question, or you just want to contact me, you can find and follow 
 
 ## 🏆 Git profile Trophies
 ---
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Juferoga&layout=compact&theme=algGolia" alt="Juferoga" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Juferoga&layout=compact&theme=onedark" alt="Juferoga" /></a> </p>
 
 ---
 
