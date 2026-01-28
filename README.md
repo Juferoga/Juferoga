@@ -52,12 +52,6 @@ If you have a question, or you just want to contact me, you can find and follow 
 - [LinkedIn](https://www.linkedin.com/in/Juferoga/)
 - [Twitter](https://twitter.com/JuanFelipe_61)
 
-## <img src="https://blog.joypixels.com/content/images/2019/12/fire-1.gif" width="35"> Some Stats
----
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juferoga&theme=algolia" alt="Juferoga" /></p>
-
-<br>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> More stats
 ---
 
@@ -71,12 +65,6 @@ If you have a question, or you just want to contact me, you can find and follow 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
----
-
-## 🏆 Git profile Trophies
----
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Juferoga&layout=compact&theme=onedark" alt="Juferoga" /></a> </p>
 
 ---
 
