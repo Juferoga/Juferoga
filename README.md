@@ -52,21 +52,6 @@ If you have a question, or you just want to contact me, you can find and follow 
 - [LinkedIn](https://www.linkedin.com/in/Juferoga/)
 - [Twitter](https://twitter.com/JuanFelipe_61)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> More stats
----
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sriram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Juferoga&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juferoga&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Juferoga's Stats" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
----
 
 <p align="center">
   <b>Note:</b> A significant portion of my recent professional work (including 300+ contributions at my current role) is on private GitLab instances and is not reflected in my public GitHub activity.
