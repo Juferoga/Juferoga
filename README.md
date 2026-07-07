@@ -43,7 +43,7 @@ My goal is to design, build, and maintain scalable, secure, and efficient soluti
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)
+[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/juferoga)
 
 ### Find me on the web 👾
 ---
