@@ -43,11 +43,13 @@ My goal is to design, build, and maintain scalable, secure, and efficient soluti
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)
+
 ### Find me on the web 👾
 ---
 If you have a question, or you just want to contact me, you can find and follow me on:
 
-- [Website](https://juferoga.github.io/JuanFelipeCV/) 
+- [Website]([https://juferoga.pro/](https://juferoga.pro/)) 
 - [GitLab](https://gitlab.com/Juferoga)
 - [LinkedIn](https://www.linkedin.com/in/Juferoga/)
 - [Twitter](https://twitter.com/JuanFelipe_61)
